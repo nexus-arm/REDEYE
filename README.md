@@ -1,4 +1,7 @@
+Redeye Nmap Scanner - Professional Edition
 A comprehensive Nmap scanning tool with session management, reporting, and advanced scanning capabilities. Available in both Python and Bash implementations.
+
+![Project Banner](Banner.jpg)
 
 ## Features
 
