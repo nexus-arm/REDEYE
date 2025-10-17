@@ -41,26 +41,13 @@ The script automatically checks and installs:
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/yourusername/redeye/main/redeye.py
+wget https://raw.githubusercontent.com/nexus-arm/redeye/main/redeye.py
 
 # Make it executable
 chmod +x redeye.py
 
 # Run the scanner
 python3 redeye.py
-```
-
-### Bash Version
-
-```bash
-# Download the script
-wget https://raw.githubusercontent.com/yourusername/redeye/main/redeye.sh
-
-# Make it executable
-chmod +x redeye.sh
-
-# Run the scanner
-./redeye.sh
 ```
 
 ## Usage
